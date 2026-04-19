@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in New York, US
 
-> Free BeamStation sample export with 988 rows and masked direct-contact fields.
+> Free BeamStation sample export with 973 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `532921` |
 | Location | New York |
 | Category | Restaurants |
-| Full dataset size | 9,886 records |
-| Free sample size | 988 records (9.99%) |
-| Last export | 2026-04-08T03:28:01.323085+00:00 |
+| Full dataset size | 9,735 records |
+| Free sample size | 973 records (9.99%) |
+| Last export | 2026-04-15T08:23:58.976602+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-new-york-us-sample-532921/releases/download/sample-latest/beamstation_532921_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
