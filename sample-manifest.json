@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e8c33c7e-8828-4520-ab2c-3c6f67a84b46",
+  "export_job_id": "c34ab41f-fed2-4657-b5e8-d4eae35296df",
   "id_short": 532921,
-  "published_at": "2026-04-19T07:28:35Z",
+  "published_at": "2026-04-22T19:52:16Z",
   "repo_name": "restaurant-verified-email-access-in-new-york-us-sample-532921",
   "sample_asset_name": "beamstation_532921_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/532921/beamstation_532921_restaurants-us-ny_SAMPLE_DIST.csv",
-  "sample_records": 973,
-  "sample_sha256": "9013f45119867be6f7ecde01e15dffb2ed107e59975006a89503080eb852e6dc",
-  "sample_size_bytes": 3689537,
-  "total_records": 9735
+  "sample_records": 1000,
+  "sample_sha256": "d9bcb0f5d814b43d2d8a9f89a327fc607c4625577b656accaf1ab0477667c7fb",
+  "sample_size_bytes": 3799181,
+  "total_records": 10905
 }
