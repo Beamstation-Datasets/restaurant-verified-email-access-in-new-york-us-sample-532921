@@ -9,9 +9,9 @@
 | Dataset ID | `532921` |
 | Location | New York |
 | Category | Restaurants |
-| Full dataset size | 10,905 records |
-| Free sample size | 1,000 records (9.17%) |
-| Last export | 2026-04-22T15:27:58.676074+00:00 |
+| Full dataset size | 10,726 records |
+| Free sample size | 1,000 records (9.32%) |
+| Last export | 2026-04-29T15:27:22.327154+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-new-york-us-sample-532921/releases/download/sample-latest/beamstation_532921_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
